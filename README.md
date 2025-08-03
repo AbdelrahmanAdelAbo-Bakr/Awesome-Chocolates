@@ -36,6 +36,5 @@ The dashboard provides actionable insights into:
 ![Product Performance](https://github.com/AbdelrahmanAdelAbo-Bakr/Awesome-Chocolates/blob/bc14d82a4b5358719f82b44017e9b94d556e44ec/Product%20performance.png)
 
 ### 🧑‍🤝‍🧑 Team Performance  
-![Team Performance](https://github.com/AbdelrahmanAdelAbo-Bakr/Awesome-Chocolates/blob/bc14d82a4b5358719f82b44017e9b94d556e44ec/Team%20performance.png)
-
+![Team Performance](https://github.com/AbdelrahmanAdelAbo-Bakr/Awesome-Chocolates/blob/c3524ed648e3f8b3ca25d4a56148f51d0e311b02/Team%20performance.png)
 
