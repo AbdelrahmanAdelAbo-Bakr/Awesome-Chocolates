@@ -9,7 +9,7 @@ The dashboard provides actionable insights into:
 - ✅ Total sales, cost, profit, shipments, and boxes.
 - 📈 Monthly performance trends for sales, cost, and profit.
 - 🧍‍♂️ Team performance and individual salesperson contributions.
-- 📦 Product-wise analysis by category (Bars, Bites, Other).
+- 📦 Product analysis by category (Bars, Bites, Other).
 - 🌍 Regional performance with dynamic filters (Year, Month, Country, Team).
 
 ## 🛠 Tools & Technologies
