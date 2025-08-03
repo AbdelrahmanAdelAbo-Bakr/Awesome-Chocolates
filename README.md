@@ -29,12 +29,12 @@ The dashboard provides actionable insights into:
 ## 📷 Screenshots
 
 ### 📊 Summary View  
-![Summary](https://github.com/AbdelrahmanAdelAbo-Bakr/Awesome-Chocolates/blob/bc14d82a4b5358719f82b44017e9b94d556e44ec/Summary%20(Top%2010%20Sellers).png)
-![Summary](https://github.com/AbdelrahmanAdelAbo-Bakr/Awesome-Chocolates/blob/bc14d82a4b5358719f82b44017e9b94d556e44ec/Summary%20(Top%2010%20Products).png)
+![Summary](https://github.com/AbdelrahmanAdelAbo-Bakr/Awesome-Chocolates/blob/ab9a6b00edfd8508486c2efed3e49c173499c30d/Summary%20(Top%2010%20Sellers).png)
+![Summary](https://github.com/AbdelrahmanAdelAbo-Bakr/Awesome-Chocolates/blob/ab9a6b00edfd8508486c2efed3e49c173499c30d/Summary%20(Top%2010%20Products).png)
 
 ### 🧺 Product Performance  
-![Product Performance](https://github.com/AbdelrahmanAdelAbo-Bakr/Awesome-Chocolates/blob/bc14d82a4b5358719f82b44017e9b94d556e44ec/Product%20performance.png)
+![Product Performance](https://github.com/AbdelrahmanAdelAbo-Bakr/Awesome-Chocolates/blob/ab9a6b00edfd8508486c2efed3e49c173499c30d/Product%20performance.png)
 
 ### 🧑‍🤝‍🧑 Team Performance  
-![Team Performance](https://github.com/AbdelrahmanAdelAbo-Bakr/Awesome-Chocolates/blob/c3524ed648e3f8b3ca25d4a56148f51d0e311b02/Team%20performance.png)
+![Team Performance](https://github.com/AbdelrahmanAdelAbo-Bakr/Awesome-Chocolates/blob/ab9a6b00edfd8508486c2efed3e49c173499c30d/Team%20performance.png)
 
