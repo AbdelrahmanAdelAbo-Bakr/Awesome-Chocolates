@@ -6,11 +6,11 @@ This project is an interactive Power BI dashboard developed for **Awesome Chocol
 
 The dashboard provides actionable insights into:
 
-- ✅ Total sales, cost, profit, shipments, and boxes
-- 📈 Monthly performance trends for sales, cost, and profit
-- 🧍‍♂️ Team performance and individual salesperson contributions
-- 📦 Product-wise analysis by category (Bars, Bites, Other)
-- 🌍 Regional performance with dynamic filters (Year, Month, Country, Team)
+- ✅ Total sales, cost, profit, shipments, and boxes.
+- 📈 Monthly performance trends for sales, cost, and profit.
+- 🧍‍♂️ Team performance and individual salesperson contributions.
+- 📦 Product-wise analysis by category (Bars, Bites, Other).
+- 🌍 Regional performance with dynamic filters (Year, Month, Country, Team).
 
 ## 🛠 Tools & Technologies
 
@@ -29,14 +29,13 @@ The dashboard provides actionable insights into:
 ## 📷 Screenshots
 
 ### 📊 Summary View  
-![Summary](https://github.com/AbdelrahmanAdelAbo-Bakr/Awesome-Chocolates/blob/d210b3e82aa925655c9a2f14fa46a56816579d3f/Summary%20(Top%2010%20Sellers).png)
-![Summary](https://github.com/AbdelrahmanAdelAbo-Bakr/Awesome-Chocolates/blob/d210b3e82aa925655c9a2f14fa46a56816579d3f/Summary%20(Top%2010%20Products).png)
+![Summary](https://github.com/AbdelrahmanAdelAbo-Bakr/Awesome-Chocolates/blob/bc14d82a4b5358719f82b44017e9b94d556e44ec/Summary%20(Top%2010%20Sellers).png)
+![Summary](https://github.com/AbdelrahmanAdelAbo-Bakr/Awesome-Chocolates/blob/bc14d82a4b5358719f82b44017e9b94d556e44ec/Summary%20(Top%2010%20Products).png)
 
 ### 🧺 Product Performance  
-![Product Performance](https://github.com/AbdelrahmanAdelAbo-Bakr/Awesome-Chocolates/blob/d210b3e82aa925655c9a2f14fa46a56816579d3f/Product%20performance.png)
+![Product Performance](https://github.com/AbdelrahmanAdelAbo-Bakr/Awesome-Chocolates/blob/bc14d82a4b5358719f82b44017e9b94d556e44ec/Product%20performance.png)
 
 ### 🧑‍🤝‍🧑 Team Performance  
-![Team Performance]((https://github.com/AbdelrahmanAdelAbo-Bakr/Awesome-Chocolates/blob/d210b3e82aa925655c9a2f14fa46a56816579d3f/Team%20performance.png))
-
+![Team Performance](https://github.com/AbdelrahmanAdelAbo-Bakr/Awesome-Chocolates/blob/bc14d82a4b5358719f82b44017e9b94d556e44ec/Team%20performance.png)
 
 
