@@ -29,7 +29,7 @@ The dashboard provides actionable insights into:
 ## 📷 Screenshots
 
 ### 📊 Summary View  
-![Summary](https://github.com/AbdelrahmanAdelAbo-Bakr/Awesome-Chocolates/blob/ab9a6b00edfd8508486c2efed3e49c173499c30d/Summary%20(Top%2010%20Sellers).png)
+![Summary](https://github.com/AbdelrahmanAdelAbo-Bakr/Awesome-Chocolates/blob/073529853dc09540308fa1be307a683c28547746/Summary%20(Top%2010%20Sellers).png)
 ![Summary](https://github.com/AbdelrahmanAdelAbo-Bakr/Awesome-Chocolates/blob/ab9a6b00edfd8508486c2efed3e49c173499c30d/Summary%20(Top%2010%20Products).png)
 
 ### 🧺 Product Performance  
